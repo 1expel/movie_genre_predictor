@@ -24,6 +24,12 @@ Classification using Euclidean Distance between all features
 
 ## Using SKLearn Models (K-Nearest Neighbors and Random Forest)
 
+### Grid Search
+
+Grid Search was used for hyperparam tuning in KNN and Random Forest to find the best values for k (# of neighbours) and n (# of trees)
+
+### Performance Metrics
+
 ![image](https://user-images.githubusercontent.com/57271684/224519030-48117d52-9abd-4010-b04c-67fba9631676.png)
 
 ![image](https://user-images.githubusercontent.com/57271684/224519035-6ad92f95-b6bd-4e0b-a02a-70cb6a521bec.png)
